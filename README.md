@@ -12,7 +12,7 @@
 <p align="center">
 <a href="https://github.com/yedhink/social-robot"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
 <a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/javascript-0000CD.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></a>
-<a href="https://github.com/yedhink/covid19-kerala-api"><img src="https://img.shields.io/badge/golang-00a4e3.svg?style=for-the-badge&logo=go&logoColor=black" alt="golang"></a>
+<a href="https://github.com/yedhink/learn-ruby-on-rails-app"><img src="https://img.shields.io/badge/ruby-D51F06.svg?style=for-the-badge&logo=ruby&logoColor=black" alt="ruby"></a>
 <a href="https://github.com/yedhink/bashed-on-a-feeling"><img src="https://img.shields.io/badge/shell_scripting-63b521.svg?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="gnubash"></a>
 <a href="https://github.com/yedhink/ktu-cs-lab"><img src="https://img.shields.io/badge/c/c++-373637.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black" alt="cplusplus"></a>
 </p><br>
@@ -21,8 +21,8 @@
 
 <p align="center">					    
 <a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="react"></a>
-<a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=black" alt="redux"></a>
-<a href="https://github.com/yedhink/covid19-kerala-api"><img src="https://img.shields.io/badge/gin-00a4e3.svg?style=for-the-badge&logo=go&logoColor=black" alt="gin"></a>
+<a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/nodejs-68A063.svg?style=for-the-badge&logo=node.js&logoColor=black" alt="nodejs"></a>
+<a href="https://github.com/yedhink/learn-ruby-on-rails-app"><img src="https://img.shields.io/badge/rails-D51F06.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=black" alt="rails"></a>
 <a href="https://github.com/yedhink/todo-webapp"><img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"></a>
 <a href="https://github.com/yedhink/social-robot"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
 </p><br>

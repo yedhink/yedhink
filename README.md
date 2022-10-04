@@ -51,8 +51,3 @@
 <p align="center">
 <a href="https://github.com/yedhink"><img src="https://img.shields.io/badge/*nix is life-black.svg?logo=linux" alt="linux"></a>
 </p><br>
-
-<p align="center">
-<a href="https://github.com/yedhink/dotfiles_ikigai">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yedhink&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Statistics"/>
-</a></p><br>
